@@ -1,0 +1,32 @@
+C:\Users\Deivi\Documents\Visual Studio 2013\Projects\Hello World\Hello World\bin\Debug\App.xbf
+C:\Users\Deivi\Documents\Visual Studio 2013\Projects\Hello World\Hello World\bin\Debug\MainPage.xbf
+C:\Users\Deivi\Documents\Visual Studio 2013\Projects\Hello World\Hello World\bin\Debug\Hello World.xr.xml
+C:\Users\Deivi\Documents\Visual Studio 2013\Projects\Hello World\Hello World\bin\Debug\Hello World.exe
+C:\Users\Deivi\Documents\Visual Studio 2013\Projects\Hello World\Hello World\bin\Debug\Hello World.pdb
+C:\Users\Deivi\Documents\Visual Studio 2013\Projects\Hello World\Hello World\bin\Debug\resources.pri
+C:\Users\Deivi\Documents\Visual Studio 2013\Projects\Hello World\Hello World\bin\Debug\AppxManifest.xml
+C:\Users\Deivi\Documents\Visual Studio 2013\Projects\Hello World\Hello World\bin\Debug\Hello World.build.appxrecipe
+C:\Users\Deivi\Documents\Visual Studio 2013\Projects\Hello World\Hello World\obj\Debug\App.g.i.cs
+C:\Users\Deivi\Documents\Visual Studio 2013\Projects\Hello World\Hello World\obj\Debug\App.g.cs
+C:\Users\Deivi\Documents\Visual Studio 2013\Projects\Hello World\Hello World\obj\Debug\MainPage.g.i.cs
+C:\Users\Deivi\Documents\Visual Studio 2013\Projects\Hello World\Hello World\obj\Debug\MainPage.g.cs
+C:\Users\Deivi\Documents\Visual Studio 2013\Projects\Hello World\Hello World\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Deivi\Documents\Visual Studio 2013\Projects\Hello World\Hello World\obj\Debug\App.xaml
+C:\Users\Deivi\Documents\Visual Studio 2013\Projects\Hello World\Hello World\obj\Debug\MainPage.xaml
+C:\Users\Deivi\Documents\Visual Studio 2013\Projects\Hello World\Hello World\obj\Debug\App.xbf
+C:\Users\Deivi\Documents\Visual Studio 2013\Projects\Hello World\Hello World\obj\Debug\MainPage.xbf
+C:\Users\Deivi\Documents\Visual Studio 2013\Projects\Hello World\Hello World\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Deivi\Documents\Visual Studio 2013\Projects\Hello World\Hello World\obj\Debug\Hello World.exe
+C:\Users\Deivi\Documents\Visual Studio 2013\Projects\Hello World\Hello World\obj\Debug\Hello World.pdb
+C:\Users\Deivi\Documents\Visual Studio 2013\Projects\Hello World\Hello World\obj\Debug\priconfig.xml
+C:\Users\Deivi\Documents\Visual Studio 2013\Projects\Hello World\Hello World\obj\Debug\priconfig.xml.intermediate
+C:\Users\Deivi\Documents\Visual Studio 2013\Projects\Hello World\Hello World\obj\Debug\layout.resfiles
+C:\Users\Deivi\Documents\Visual Studio 2013\Projects\Hello World\Hello World\obj\Debug\layout.resfiles.intermediate
+C:\Users\Deivi\Documents\Visual Studio 2013\Projects\Hello World\Hello World\obj\Debug\resources.resfiles
+C:\Users\Deivi\Documents\Visual Studio 2013\Projects\Hello World\Hello World\obj\Debug\resources.resfiles.intermediate
+C:\Users\Deivi\Documents\Visual Studio 2013\Projects\Hello World\Hello World\obj\Debug\pri.resfiles
+C:\Users\Deivi\Documents\Visual Studio 2013\Projects\Hello World\Hello World\obj\Debug\pri.resfiles.intermediate
+C:\Users\Deivi\Documents\Visual Studio 2013\Projects\Hello World\Hello World\obj\Debug\qualifiers.txt
+C:\Users\Deivi\Documents\Visual Studio 2013\Projects\Hello World\Hello World\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Deivi\Documents\Visual Studio 2013\Projects\Hello World\Hello World\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Deivi\Documents\Visual Studio 2013\Projects\Hello World\Hello World\obj\Debug\ProjectArchitectures.txt
