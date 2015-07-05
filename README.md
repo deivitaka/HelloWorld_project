@@ -1,2 +1,3 @@
 # HelloWorld project
-This is the Visual Studio project that I worked on in the article "Intro to Windows Phone development".
+This is the Visual Studio project that I work on in the article "An Introduction to Windows Phone 8.1 Development".
+www.sitepoint.com/introduction-windows-phone-8-1-development/
